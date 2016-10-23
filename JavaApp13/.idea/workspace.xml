@@ -1,0 +1,1052 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="96418b86-a2f3-4c91-9813-91720ae15122" name="Default" comment="" />
+    <ignored path="JavaApp13.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="JavaApp13" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/javaapp13/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="451">
+              <caret line="41" column="35" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CurDOMParser.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaapp13/CurDOMParser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="944">
+              <caret line="56" column="47" selection-start-line="56" selection-start-column="47" selection-end-line="56" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CurrencyParser.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaapp13/CurrencyParser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="31" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Currency.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaapp13/Currency.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="417">
+              <caret line="44" column="18" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test2.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test2.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="58423" column="19" selection-start-line="58423" selection-start-column="19" selection-end-line="58423" selection-end-column="19" />
+              <folding>
+                <element signature="n#CURRENCY#0;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#1;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#2;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#3;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#4;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#5;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#6;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#7;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#8;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#9;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#10;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#11;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#12;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#13;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#14;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#15;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#16;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#17;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#18;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#19;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#20;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#21;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#22;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#23;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#24;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#25;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#26;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#27;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#28;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#29;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#30;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#31;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#32;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#33;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#34;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#35;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#36;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#37;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#38;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#39;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#40;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#41;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#42;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#43;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#44;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#45;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#46;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#47;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#48;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#49;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#50;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#51;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#52;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#53;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#54;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#55;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#56;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#57;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#58;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#59;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#60;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#61;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#62;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#63;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#64;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#65;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#66;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#67;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#68;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#69;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#70;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#71;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#72;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#73;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#74;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#75;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#76;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#77;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#78;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#79;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#80;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#81;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#82;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#83;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#84;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#85;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#86;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#87;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#88;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#89;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#90;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#91;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#92;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#93;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#94;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#95;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#96;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#97;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#98;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#99;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#100;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#101;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#102;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#103;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#104;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#105;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#106;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#107;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#108;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#109;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#110;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#111;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#112;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#113;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#114;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#115;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#116;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#117;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#118;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#119;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#120;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#121;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#122;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#123;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#124;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#125;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#126;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#127;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#128;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#129;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#130;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#131;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#132;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#133;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#134;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#135;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#136;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#137;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#138;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#139;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#140;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#141;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#142;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#143;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#144;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#145;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#146;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#147;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#148;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#149;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#150;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#151;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#152;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#153;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#154;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#155;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#156;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#157;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#158;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#159;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#160;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#161;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#162;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#163;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#164;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#165;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#166;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#167;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#168;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#169;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#170;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#171;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#172;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#173;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#174;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#175;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#176;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#177;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#178;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#179;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#180;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#181;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#182;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#183;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#184;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#185;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#186;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#187;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#188;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#189;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#190;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#191;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#192;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#193;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#194;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#195;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#196;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#197;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#198;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#199;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#200;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#201;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#202;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#203;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#204;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#205;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#206;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#207;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#208;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+                <element signature="n#CURRENCY#209;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaapp13/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-238">
+              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+              <folding>
+                <element signature="e#423#424#0" expanded="true" />
+                <element signature="e#448#449#0" expanded="true" />
+                <element signature="e#481#482#0" expanded="true" />
+                <element signature="e#509#510#0" expanded="true" />
+                <element signature="e#545#546#0" expanded="true" />
+                <element signature="e#577#578#0" expanded="true" />
+                <element signature="e#627#628#0" expanded="true" />
+                <element signature="e#669#670#0" expanded="true" />
+                <element signature="e#704#705#0" expanded="true" />
+                <element signature="e#735#736#0" expanded="true" />
+                <element signature="e#783#784#0" expanded="true" />
+                <element signature="e#823#824#0" expanded="true" />
+                <element signature="e#859#860#0" expanded="true" />
+                <element signature="e#891#892#0" expanded="true" />
+                <element signature="e#941#942#0" expanded="true" />
+                <element signature="e#983#984#0" expanded="true" />
+                <element signature="e#1015#1016#0" expanded="true" />
+                <element signature="e#1093#1094#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StudentSAXParser.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaapp13/StudentSAXParser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="48" column="28" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/javaapp13/SAXParser.java" />
+        <option value="$PROJECT_DIR$/test.xml" />
+        <option value="$PROJECT_DIR$/src/javaapp13/Student.java" />
+        <option value="$PROJECT_DIR$/src/javaapp13/StudentSAXParser.java" />
+        <option value="$PROJECT_DIR$/src/javaapp13/Currency.java" />
+        <option value="$PROJECT_DIR$/src/javaapp13/CurrencyParser.java" />
+        <option value="$PROJECT_DIR$/src/javaapp13/CurDOMParser.java" />
+        <option value="$PROJECT_DIR$/test2.xml" />
+        <option value="$PROJECT_DIR$/src/javaapp13/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="4" />
+    <option name="width" value="1017" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaApp13" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaApp13" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaApp13" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaApp13" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaApp13" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javaapp13" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="javaapp13.Main" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaApp13" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaApp13" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96418b86-a2f3-4c91-9813-91720ae15122" name="Default" comment="" />
+      <created>1463411380831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1463411380831</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="4" y="0" width="1017" height="1040" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28464016" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23476523" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34479055" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/javaapp13/CurDOMParser.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="8" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/javaapp13/Currency.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="44" column="18" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaapp13/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-238">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+          <folding>
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+            <element signature="e#545#546#0" expanded="true" />
+            <element signature="e#577#578#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+            <element signature="e#704#705#0" expanded="true" />
+            <element signature="e#735#736#0" expanded="true" />
+            <element signature="e#783#784#0" expanded="true" />
+            <element signature="e#823#824#0" expanded="true" />
+            <element signature="e#859#860#0" expanded="true" />
+            <element signature="e#891#892#0" expanded="true" />
+            <element signature="e#941#942#0" expanded="true" />
+            <element signature="e#983#984#0" expanded="true" />
+            <element signature="e#1015#1016#0" expanded="true" />
+            <element signature="e#1093#1094#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaapp13/StudentSAXParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="48" column="28" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaapp13/CurrencyParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="31" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="58423" column="19" selection-start-line="58423" selection-start-column="19" selection-end-line="58423" selection-end-column="19" />
+          <folding>
+            <element signature="n#CURRENCY#0;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#1;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#2;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#3;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#4;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#5;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#6;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#7;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#8;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#9;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#10;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#11;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#12;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#13;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#14;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#15;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#16;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#17;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#18;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#19;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#20;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#21;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#22;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#23;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#24;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#25;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#26;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#27;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#28;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#29;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#30;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#31;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#32;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#33;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#34;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#35;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#36;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#37;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#38;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#39;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#40;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#41;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#42;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#43;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#44;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#45;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#46;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#47;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#48;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#49;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#50;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#51;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#52;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#53;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#54;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#55;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#56;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#57;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#58;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#59;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#60;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#61;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#62;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#63;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#64;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#65;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#66;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#67;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#68;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#69;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#70;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#71;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#72;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#73;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#74;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#75;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#76;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#77;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#78;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#79;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#80;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#81;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#82;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#83;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#84;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#85;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#86;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#87;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#88;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#89;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#90;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#91;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#92;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#93;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#94;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#95;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#96;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#97;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#98;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#99;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#100;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#101;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#102;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#103;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#104;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#105;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#106;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#107;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#108;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#109;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#110;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#111;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#112;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#113;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#114;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#115;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#116;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#117;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#118;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#119;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#120;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#121;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#122;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#123;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#124;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#125;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#126;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#127;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#128;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#129;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#130;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#131;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#132;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#133;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#134;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#135;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#136;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#137;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#138;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#139;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#140;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#141;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#142;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#143;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#144;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#145;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#146;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#147;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#148;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#149;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#150;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#151;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#152;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#153;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#154;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#155;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#156;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#157;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#158;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#159;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#160;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#161;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#162;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#163;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#164;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#165;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#166;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#167;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#168;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#169;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#170;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#171;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#172;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#173;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#174;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#175;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#176;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#177;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#178;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#179;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#180;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#181;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#182;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#183;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#184;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#185;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#186;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#187;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#188;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#189;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#190;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#191;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#192;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#193;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#194;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#195;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#196;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#197;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#198;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#199;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#200;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#201;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#202;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#203;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#204;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#205;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#206;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#207;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#208;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+            <element signature="n#CURRENCY#209;n#CCX18#0;n#MICEX_DOC#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaapp13/CurDOMParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="944">
+          <caret line="56" column="47" selection-start-line="56" selection-start-column="47" selection-end-line="56" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaapp13/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="41" column="35" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

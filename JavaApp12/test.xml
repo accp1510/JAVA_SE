@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cars>
+    <car>
+        <make>BMW</make>
+        <model>X5</model>
+        <cats>
+            <cat place="Водитель">Мурзик</cat>
+            <cat>Рыжик</cat>
+        </cats>
+    </car>
+    <car>
+        <make>Opel</make>
+        <model>Astra</model>
+        <cats>
+            <cat>Рыжик</cat>
+        </cats>
+    </car>
+    <car>
+        <make>Lada</make>
+        <model>Niva</model>
+        <cats/>
+    </car>
+</cars>
